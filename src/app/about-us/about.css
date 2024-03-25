@@ -1,0 +1,15 @@
+.bg {
+  background: rgb(213, 237, 196);
+}
+@media (min-width: 768px) {
+  .bg {
+    background: rgb(213, 237, 196);
+    background: linear-gradient(
+      180deg,
+      rgba(213, 237, 196, 1) 0%,
+      rgba(213, 237, 196, 1) 70%,
+      rgba(255, 255, 255, 1) 70%,
+      rgba(255, 255, 255, 1) 100%
+    );
+  }
+}

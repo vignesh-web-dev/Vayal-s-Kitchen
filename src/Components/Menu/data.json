@@ -1,0 +1,592 @@
+{
+  "menu": [
+    {
+      "category": "VEG APPETIZER",
+      "image": "/Menu/tab/1.svg",
+      "items": [
+        {
+          "name": "Veg Samosa (2 PCS)",
+          "type": "veg",
+          "content": "Triangular turnovers filled with potatoes and green peas.",
+          "price": "$4.99",
+          "image": "/Menu/high/veg-appetizer/samosa"
+        },
+        {
+          "name": "Spinach Onion Pakora",
+          "type": "gluten",
+          "content": "Finely chopped vegetables fried in chick peas and spices",
+          "price": "$8.99",
+          "image": "/Menu/high/veg-appetizer/onion pakora"
+        },
+        {
+          "name": "Spring Roll (4 PCS)",
+          "type": "veg",
+          "content": "Blend of spicy mixed vegetables, served alongside soft butter toasted bread",
+          "price": "$7.99",
+          "image": "/Menu/high/veg-appetizer/spring roll"
+        },
+        {
+          "name": "Pav Bhaji",
+          "type": "veg",
+          "content": "Blend of spicy mixed vegetables, served alongside soft butter toasted bread",
+          "price": "$8.99",
+          "image": "/Menu/high/veg-appetizer/pav bhaji"
+        },
+        {
+          "name": "Aloo Tikki Chole",
+          "type": "veg",
+          "content": "Golden fried-potato patty that is often stuffed with green peas and served with a variety of spicy chutneys and chickpeas gravy",
+          "price": "$8.99",
+          "image": "/Menu/high/veg-appetizer/aloo tikki chole"
+        },
+        {
+          "name": "Gobi Manchurian",
+          "type": "veg",
+          "content": "cauliflower chunks fried and marinated in Indo-Chinese spices",
+          "price": "$11.99",
+          "image": "/Menu/high/veg-appetizer/gobi manchurian"
+        }
+      ]
+    },
+    {
+      "category": "NON-VEG APPETIZER",
+      "image": "/Menu/tab/2.svg",
+      "items": [
+        {
+          "name": "Tandoori Chicken",
+          "type": "gluten",
+          "content": "Chicken Marinated in Spices, Yogurt, Lemon Juice and Cooked in Clay Oven on Skewers",
+          "price": "$14.99",
+          "image": "/Menu/high/non-veg appetizer/tandoori-chicken"
+        },
+        {
+          "name": "Chicken Tikka Dry",
+          "type": "gluten",
+          "content": "Boneless Chicken Pcs marinated in Herbs, Spices Roasted Tandoori Style with Spices",
+          "price": "$14.99",
+          "image": "/Menu/high/non-veg appetizer/chicken-tikka-dry"
+        },
+        {
+          "name": "Malai Kabab",
+          "type": "gluten",
+          "content": "Boneless chicken breast that has been marinated in a juicy mixture of curd",
+          "price": "$14.99",
+          "image": "/Menu/high/non-veg appetizer/malai-kebab"
+        },
+        {
+          "name": "Seekh Kabab",
+          "type": "gluten",
+          "content": "Minced Lamb Meat Mixed with Herbs and Spices, cooked on Skewer",
+          "price": "$15.99",
+          "image": "/Menu/high/non-veg appetizer/seekh-kebab"
+        },
+        {
+          "name": "Masala Wings",
+          "type": "gluten",
+          "content": "Tossed With homemade Indian masala spices",
+          "price": "$15.99",
+          "image": "/Menu/high/non-veg appetizer/masala-wings"
+        }
+      ]
+    },
+    {
+      "category": "Veg Entrees - Served with rice",
+      "image": "/Menu/tab/3.svg",
+      "items": [
+        {
+          "name": "Vegetable Kurma",
+          "type": "gluten",
+          "content": "Delicious gravy made with coconut and mixed vegetables",
+          "price": "$12.99",
+          "image": "/Menu/high/Veg-Entrees-Served-with-rice/veg-kurma"
+        },
+        {
+          "name": "Navratan Korma",
+          "type": "gluten",
+          "content": "Assorted Fresh Vegetables Cooked with Nuts and Raisins and Mild Spices in Cream Sauce",
+          "price": "$12.99",
+          "image": "/Menu/high/Veg-Entrees-Served-with-rice/navratan-korma"
+        },
+        {
+          "name": "Aloo Gobi",
+          "type": "gluten",
+          "content": "Cauliflower and Potato Cooked with onions, tomatoes and spices.",
+          "price": "$12.99",
+          "image": "/Menu/high/Veg-Entrees-Served-with-rice/aloo-gobi"
+        },
+        {
+          "name": "Chana Masala",
+          "type": "gluten",
+          "content": "Garbanzo beans cooked with freshly ground spices, onions, fresh tomatoes and ginger",
+          "price": "$12.99",
+          "image": "/Menu/high/Veg-Entrees-Served-with-rice/Chana-Masala"
+        },
+        {
+          "name": "Mushroom Mutter",
+          "type": "gluten",
+          "content": "Fresh mushrooms and green peas in a golden curry with fenugreek leaves",
+          "price": "$12.99",
+          "image": "/Menu/high/Veg-Entrees-Served-with-rice/Mushroom-Mutter"
+        },
+        {
+          "name": "Paneer Butter Masala",
+          "type": "gluten",
+          "content": "Paneer pieces cooked in our classic and creamy tomato curry sauce",
+          "price": "$13.99",
+          "image": "/Menu/high/Veg-Entrees-Served-with-rice/Paneer-Butter-Masala"
+        }
+      ]
+    },
+    {
+      "category": "Non-Veg Entrees",
+      "image": "/Menu/tab/4.svg",
+      "items": [
+        {
+          "name": "Tikka Masala - Chicken",
+          "type": "gluten",
+          "content": "Boneless choice of meat Cooked in Special Curry with cream",
+          "price": "$13.99",
+          "image": "/Menu/high/Non-Veg-Entrees/Tikka-Masala-Chicken"
+        },
+        {
+          "name": "Tikka Masala - Lamb",
+          "type": "gluten",
+          "content": "Boneless choice of meat Cooked in Special Curry with cream",
+          "price": "$15.99",
+          "image": "/Menu/high/Non-Veg-Entrees/Tikka-Masala-Lamb"
+        },
+        {
+          "name": "Tikka Masala - Shrimp",
+          "type": "gluten",
+          "content": "Boneless choice of meat Cooked in Special Curry with cream",
+          "price": "$15.99",
+          "image": "/Menu/high/Non-Veg-Entrees/Tikka-Masala - Shrimp"
+        },
+        {
+          "name": "Tikka Masala - Fish",
+          "type": "gluten",
+          "content": "Boneless choice of meat Cooked in Special Curry with cream",
+          "price": "$15.99",
+          "image": "/Menu/high/Non-Veg-Entrees/Tikka-Masala-Fish"
+        },
+        {
+          "name": "Korma Masala - Chicken",
+          "type": "gluten",
+          "content": "Boneless choice of meat with yogurt base with cream and korma spices",
+          "price": "$13.99",
+          "image": "/Menu/high/Non-Veg-Entrees/Korma-Masala-Chicken"
+        },
+        {
+          "name": "Korma Masala - Lamb",
+          "type": "gluten",
+          "content": "Boneless choice of meat with yogurt base with cream and korma spices",
+          "price": "$15.99",
+          "image": "/Menu/high/Non-Veg-Entrees/Korma-Masala-Lamb"
+        }
+      ]
+    },
+    {
+      "category": "Breads",
+      "image": "/Menu/tab/5.svg",
+      "items": [
+        {
+          "name": "Naan - Plain",
+          "type": "",
+          "content": "Flat butter bread cooked in Tandoor oven",
+          "price": "$2.49",
+          "image": "/Menu/high/BREADS/Naan-Plain"
+        },
+        {
+          "name": "Butter Naan",
+          "type": "",
+          "content": "Flat butter bread cooked in Tandoor oven",
+          "price": "$2.49",
+          "image": "/Menu/high/BREADS/Butter-Naan"
+        },
+        {
+          "name": "Garlic Naan",
+          "type": "",
+          "content": "Flat butter bread cooked in Tandoor oven is topped with minced garlic",
+          "price": "$2.99",
+          "image": "/Menu/high/BREADS/Garlic-Naan"
+        },
+        {
+          "name": "Chilli Garlic Naan",
+          "type": "",
+          "content": "Flat butter bread cooked in Tandoor oven is topped with minced garlic and chili",
+          "price": "$3.49",
+          "image": "/Menu/high/BREADS/Chilli-Garlic-Naan"
+        },
+        {
+          "name": "Garlic Basil Naan",
+          "type": "",
+          "content": "Flat butter bread cooked in Tandoor oven is topped with minced garlic and basil",
+          "price": "$3.49",
+          "image": "/Menu/high/BREADS/Garlic-Basil-Naan"
+        },
+        {
+          "name": "Wheat Paratha",
+          "type": "",
+          "content": "Cooked in tawa with wheat flour and butter",
+          "price": "$2.49",
+          "image": "/Menu/high/BREADS/Wheat-Paratha"
+        }
+      ]
+    },
+    {
+      "category": "South Indian Feast",
+      "image": "/Menu/tab/6.svg",
+
+      "items": [
+        {
+          "name": "Medu Vada 4 PCS",
+          "type": "veg",
+          "content": "Savory doughnut like south Indian snack prepared by deep frying black gram dough mixed with spices",
+          "price": "$7.99",
+          "image": "/Menu/high/South-Indian-Feast/Medu-Vada-4-PCS"
+        },
+        {
+          "name": "Cut Mirchi",
+          "type": "",
+          "content": "Fritter made with green chilies deep fried in gram flour batter topped with onions and chaat masala",
+          "price": "$7.99",
+          "image": "/Menu/high/South-Indian-Feast/Cut-Mirchi"
+        },
+        {
+          "name": "Sambar Vadai 3 PCS",
+          "type": "",
+          "content": "Medhu vada served by soaked to perfection in sambar",
+          "price": "$8.99",
+          "image": "/Menu/high/South-Indian-Feast/Sambar-Vadai"
+        },
+        {
+          "name": "Chicken 65",
+          "type": "",
+          "content": "Chicken cubes deep fried with south Indian spices",
+          "price": "$12.99",
+          "image": "/Menu/high/South-Indian-Feast/Chicken-65"
+        },
+        {
+          "name": "Vayals Special Chicken Chili Dry",
+          "type": "",
+          "content": "Chicken cubes marinated and deep fried, chicken cubes spiced up with a South Indian saute mix",
+          "price": "$12.99",
+          "image": "/Menu/high/South-Indian-Feast/Vayals-Specia-Chicken-Chili-Dry"
+        },
+        {
+          "name": "Chicken Manchurian",
+          "type": "",
+          "content": "Chicken seasoned with Chinese sauce and tossed in wok",
+          "price": "$12.99",
+          "image": "/Menu/high/South-Indian-Feast/Chicken-Manchurian"
+        }
+      ]
+    },
+    {
+      "category": "South Indian Gravy",
+      "image": "/Menu/tab/7.svg",
+      "items": [
+        {
+          "name": "Chicken Kurma",
+          "type": "",
+          "content": "Coconut and yogurt-based chicken curry",
+          "price": "$13.99",
+          "image": "/Menu/high/South-Indian-Gravy/Chicken-Kurma"
+        },
+        {
+          "name": "Chettinad Chicken",
+          "type": "gluten",
+          "content": "Chettinad chicken curry has its unique flavor from the special spice mix used for cooking",
+          "price": "$13.99",
+          "image": "/Menu/high/South-Indian-Gravy/Chettinad-Chicken"
+        },
+        {
+          "name": "Karaikudi Chicken Masala",
+          "type": "",
+          "content": "Chicken cooked in south Indian blend masala",
+          "price": "$13.99",
+          "image": "/Menu/high/South-Indian-Gravy/Karaikudi-Chicken-Masala"
+        },
+        {
+          "name": "Kongu Chicken Kari",
+          "type": "",
+          "content": "Whole spices, onion and coconut base curry",
+          "price": "$13.99",
+          "image": "/Menu/high/South-Indian-Gravy/Kong-Chicken-Kari"
+        },
+        {
+          "name": "Chicken Milagu Curry",
+          "type": "",
+          "content": "Whole spices, onion and coconut base curry with black pepper",
+          "price": "$13.99",
+          "image": "/Menu/high/South-Indian-Gravy/Chicken-Milagu-Curry"
+        },
+        {
+          "name": "Goat Masala / Chettinad / Nadan Style",
+          "type": "",
+          "content": "Flavors of curry leaves, green chilies, coconut milk and Kerala spice",
+          "price": "$15.99",
+          "image": "/Menu/high/South-Indian-Gravy/Goat-Masala"
+        }
+      ]
+    },
+    {
+      "category": "Dosa Rice Crepe",
+      "image": "/Menu/tab/8.svg",
+
+      "items": [
+        {
+          "name": "Plain Dosa",
+          "type": "veg",
+          "content": "South Indian rice crepe made from fermented rice and black gram batter",
+          "price": "$9.99",
+          "image": "/Menu/high/Dosa-Rice-Crepe/Plain-Dosa"
+        },
+        {
+          "name": "Masala Dosa",
+          "type": "gluten",
+          "content": "Mashed potato stuffed crepe",
+          "price": "$10.99",
+          "image": "/Menu/high/Dosa-Rice-Crepe/Masala-Dosa"
+        },
+        {
+          "name": "Podi Dosa",
+          "type": "gluten",
+          "content": "Spiced up rice crepe",
+          "price": "$10.99",
+          "image": "/Menu/high/Dosa-Rice-Crepe/Podi-Dosa"
+        },
+        {
+          "name": "Ghee Roast Dosa",
+          "type": "gluten",
+          "content": "Buttered rice crepe",
+          "price": "$11.99",
+          "image": "/Menu/high/Dosa-Rice-Crepe/Ghee-Roast-Dosa"
+        },
+        {
+          "name": "Ghee Roast Masala Dosa",
+          "type": "gluten",
+          "content": "Buttered rice crepe with potato filling",
+          "price": "$12.99",
+          "image": "/Menu/high/Dosa-Rice-Crepe/Ghee-Roast-Masala-Dosa"
+        },
+        {
+          "name": "Mysore Masala Dosa",
+          "type": "gluten",
+          "content": "Spicy masala dosa",
+          "price": "$11.99",
+          "image": "/Menu/high/Dosa-Rice-Crepe/Mysore-Masala-Dosa"
+        }
+      ]
+    },
+    {
+      "category": "Uthappam",
+      "image": "/Menu/tab/9.svg",
+
+      "items": [
+        {
+          "name": "Plain Uttapam",
+          "type": "gluten",
+          "content": "South Indian rice pancake made with rice and black gram batter",
+          "price": "$10.99",
+          "image": "/Menu/high/Uthappam/Plain-Uttapam"
+        },
+        {
+          "name": "Onion Uthappam",
+          "type": "gluten",
+          "content": "South Indian rice pancake made with rice and black gram batter with onion",
+          "price": "$10.99",
+          "image": "/Menu/high/Uthappam/Onion-Uthappam"
+        },
+        {
+          "name": "Onion Chilli Tomato Uthappam",
+          "type": "gluten",
+          "content": "South Indian rice pancake made with rice and black gram batter with onion, chili, and tomato",
+          "price": "$11.99",
+          "image": "/Menu/high/Uthappam/Onion-Chilli-Tomato-Uthappam"
+        },
+        {
+          "name": "Masala Butter Uthappam",
+          "type": "gluten",
+          "content": "South Indian rice pancake made with rice and black gram batter with butter and masala",
+          "price": "$11.99",
+          "image": "/Menu/high/Uthappam/Masala-Butter-Uthappam"
+        }
+      ]
+    },
+    {
+      "category": "Kothu Parotta",
+      "image": "/Menu/tab/10.svg",
+
+      "items": [
+        {
+          "name": "Veg",
+          "type": "",
+          "content": "Pan grilled pastry like flat bread chopped and mashed up with a choice of spicy veggies",
+          "price": "$11.99",
+          "image": "/Menu/high/Kothu Parotta/veg"
+        },
+        {
+          "name": "Chicken",
+          "type": "",
+          "content": "Pan grilled pastry like flat bread chopped and mashed up with chicken",
+          "price": "$13.99",
+          "image": "/Menu/high/Kothu Parotta/Chicken"
+        },
+        {
+          "name": "Paneer",
+          "type": "",
+          "content": "Pan grilled pastry like flat bread chopped and mashed up with paneer",
+          "price": "$13.99",
+          "image": "/Menu/high/Kothu Parotta/Paneer"
+        },
+        {
+          "name": "Egg",
+          "type": "",
+          "content": "Pan grilled pastry like flat bread chopped and mashed up with egg",
+          "price": "$13.99",
+          "image": "/Menu/high/Kothu Parotta/egg"
+        }
+      ]
+    },
+    {
+      "category": "Biryani",
+      "image": "/Menu/tab/11.svg",
+
+      "items": [
+        {
+          "name": "Vegetable Biryani",
+          "type": "",
+          "content": "A flavorful mix of assorted vegetables and aromatic basmati rice",
+          "price": "$11.99",
+          "image": "/Menu/high/BIRYANI/Vegetable-Biryani"
+        },
+        {
+          "name": "Chicken Biryani",
+          "type": "",
+          "content": "Delicious savory basmati rice with spices marinated chicken, served with caramelized onion and raita",
+          "price": "$14.99",
+          "image": "/Menu/high/BIRYANI/Chicken-Biryani"
+        },
+        {
+          "name": "Lamb Biryani",
+          "type": "",
+          "content": "Delicious savory basmati rice with spices marinated lamb, served with caramelized onion and raita",
+          "price": "$15.99",
+          "image": "/Menu/high/BIRYANI/Lamb-Biryani"
+        },
+        {
+          "name": "Chicken Thalappakatti Biryani",
+          "type": "",
+          "content": "Made with short grain seeraga samba rice cooked along with chicken",
+          "price": "$14.99",
+          "image": "/Menu/high/BIRYANI/Chicken-Thalappakatti-Biryani"
+        },
+        {
+          "name": "Mutton Thalappakatti Biryani",
+          "type": "",
+          "content": "Made with short grain seeraga samba rice cooked along with goat pieces",
+          "price": "$15.99",
+          "image": "/Menu/high/BIRYANI/Mutton-Thalappakatti-Biryani"
+        }
+      ]
+    },
+    {
+      "category": "Kids Corner",
+      "image": "/Menu/tab/12.svg",
+
+      "items": [
+        {
+          "name": "French Fries",
+          "type": "",
+          "content": "",
+          "price": "$3.99",
+          "image": "/Menu/high/Kids-Corner/French-Fries"
+        },
+        {
+          "name": "Mini Cone Dosa",
+          "type": "",
+          "content": "",
+          "price": "$5.99",
+          "image": "/Menu/high/Kids-Corner/Mini-Cone-Dosa"
+        },
+        {
+          "name": "Mini Chocolate Dosa",
+          "type": "",
+          "content": "",
+          "price": "$5.99",
+          "image": "/Menu/high/Kids-Corner/Mini-Chocolate-Dosa"
+        },
+        {
+          "name": "Mini Cheese Dosa",
+          "type": "",
+          "content": "",
+          "price": "$5.99",
+          "image": "/Menu/high/Kids-Corner/Mini-Cheese-Dosa"
+        }
+      ]
+    },
+    {
+      "category": "Beverages",
+      "image": "/Menu/tab/13.svg",
+      "items": [
+        {
+          "name": "Mango Lassi",
+          "type": "",
+          "content": "Blend of ripe mangoes & creamy yogurt",
+          "price": "$3.49",
+          "image": "/Menu/high/BEVERAGES/Mango-Lassi"
+        },
+        {
+          "name": "Water Bottle",
+          "type": "",
+          "content": "",
+          "price": "$1",
+          "image": "/Menu/high/BEVERAGES/Water-Bottle"
+        },
+        {
+          "name": "Soda",
+          "type": "",
+          "content": "",
+          "price": "$1.99",
+          "image": "/Menu/high/BEVERAGES/Soda"
+        },
+        {
+          "name": "Masala Tea",
+          "type": "",
+          "content": "",
+          "price": "$1.99",
+          "image": "/Menu/high/BEVERAGES/Masala-Tea"
+        }
+      ]
+    },
+    {
+      "category": "Dessert",
+      "image": "/Menu/tab/14.svg",
+
+      "items": [
+        {
+          "name": "Gulab Jamun",
+          "type": "",
+          "content": "Cottage cheese balls dipped in sugar syrup",
+          "price": "$3.99",
+          "image": "/Menu/high/Desserts/Gulab-Jamun"
+        },
+        {
+          "name": "Carrot Halwa",
+          "type": "",
+          "content": "Made with grated carrot, butter, sugar, fried nuts",
+          "price": "$4.99",
+          "image": "/Menu/high/Desserts/Carrot-Halwa"
+        },
+        {
+          "name": "Rice Kheer",
+          "type": "",
+          "content": "Rice cooked with milk, sugar, garnished with raisins and almonds",
+          "price": "$4.99",
+          "image": "/Menu/high/Desserts/Rice-Kheer"
+        }
+      ]
+    }
+  ]
+}

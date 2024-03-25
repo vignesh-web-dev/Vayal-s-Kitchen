@@ -1,0 +1,24 @@
+[data-aos] {
+  opacity: 0;
+}
+[data-aos].aos-animate {
+  opacity: 1;
+}
+
+.color-overlay {
+  background: hsla(40, 90, 70, 0.5);
+  mix-blend-mode: overlay;
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  z-index: 1;
+}
+
+.menupage .react-tabs__tab--selected {
+  background-color: #fd961e;
+}
+.menupage .react-tabs__tab--selected:focus {
+  outline: none;
+}

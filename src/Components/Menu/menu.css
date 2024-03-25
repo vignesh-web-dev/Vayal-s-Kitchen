@@ -1,0 +1,98 @@
+.react-tabs__tab--selected:focus {
+  outline: none;
+}
+
+.react-tabs__tab--selected * {
+  transition: all 0.5s;
+}
+
+.react-tabs__tab--selected p {
+  display: block;
+  transition: all 5s;
+  animation: fadeInOut 0.5s ease-in-out forwards;
+  opacity: 0;
+  color: #002c1f;
+  font-weight: 600;
+}
+@keyframes fadeInOut {
+  0% {
+    opacity: 0;
+  }
+
+  50% {
+    opacity: 0.5;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+.react-tabs__tab--selected {
+  background-color: transparent;
+}
+
+.react-tabs__tab--selected svg > g > path {
+  fill: #ffffff;
+}
+.react-tabs__tab--selected svg > path {
+  fill: #ffffff;
+}
+
+.react-tabs__tab--selected img {
+  filter: invert(1);
+}
+
+svg > g > path {
+  fill: #002c1f;
+}
+svg > path {
+  fill: #002c1f;
+}
+.react-tabs__tab--selected .round {
+  transition: all 0.5s;
+  background: #fd961e;
+}
+/* .react-tabs__tab--selected {
+  transition: all 0.5s;
+} */
+
+.react-tabs__tab-panel--selected {
+  animation: op 500ms;
+}
+
+@keyframes op {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+svg {
+  width: 100% !important;
+  height: auto !important;
+}
+.swiper-slide {
+  width: fit-content !important;
+  background-color: transparent !important;
+}
+.swiper-free-mode > .swiper-wrapper {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.listanim {
+  animation: listanim 0.7s ease-in;
+}
+@keyframes listanim {
+  0% {
+    left: 0px;
+  }
+  50% {
+    left: -40px;
+  }
+  100% {
+    left: 0px;
+  }
+}

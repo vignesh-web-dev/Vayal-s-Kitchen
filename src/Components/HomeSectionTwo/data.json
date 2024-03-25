@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Authentic Indian Flavors",
+    "content": "Experience the true taste of India with our authentic and traditional recipes, prepared with the finest ingredients & aromatic spices.",
+    "image": "family.svg"
+  },
+  {
+    "title": "Warm and Vibrant Ambiance",
+    "content": "Step into a cozy and vibrant atmosphere that enhances your dining experience, whether you're enjoying a meal with friends, family, or colleagues.",
+    "image": "romantic.svg"
+  },
+  {
+    "title": "Extensive Menu Selection",
+    "content": "Our menu boasts a wide selection of dishes, ensuring there's something to delight every palate",
+    "image": "justaste.svg"
+  },
+  {
+    "title": "Vegan and Gluten-Free Options",
+    "content": " We cater to dietary preferences with a variety of vegan and gluten-free dishes that are as delicious as they are satisfying.",
+    "image": "value.svg"
+  },
+  {
+    "title": "Exceptional Service",
+    "content": "Our attentive staff are dedicated to providing you with a memorable dining experience.",
+    "image": "large.svg"
+  },
+  {
+    "title": "Hygiene and Safety",
+    "content": "We prioritize your health and safety by maintaining strict hygiene standards and adhering to all safety protocols.",
+    "image": "chef.svg"
+  },
+  {
+    "title": "Cultural Experience",
+    "content": "Immerse yourself in the vibrant culture of India through our decor, music, and hospitality, creating a truly authentic dining experience.",
+    "image": "forall.svg"
+  }
+]

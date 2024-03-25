@@ -1,0 +1,36 @@
+{
+  "review": [
+    {
+      "name": "Noor A",
+      "content": "I am so happy this cute and bustling spot is an amazing addition to the area. Arrived to a packed restaurant, which is a great sign for just opening. Service was good considering how busy they were. Food was EXCEPTIONAL. Just amazing for our first trip. Tried a couple of classics and a Dosa! Cannot wait to try more",
+      "image": "/Home/Review/noor.jpg",
+      "typeOfVisitor": "",
+      "date": "Feb 25, 2024",
+      "dineWithUs": true
+    },
+    {
+      "name": "Jaime J",
+      "content": "We walked by the storefront and could smell garlic, curry, and roasted meat. That was enough to convince us to try Vayal's. I had no idea that it was their first week of business in this location. Everything was delicious! We especially liked the samosas, channa masala, and the chicken tikka masala. The nan was light and airy and delicious and the owner was there and was exceptionally friendly and helpful. Welcome to the neighborhood, Vayal's! We are so happy to have great Indian cuisine near home again!",
+      "image": "/Home/Review/jaime.jpg",
+      "typeOfVisitor": "",
+      "date": "Feb 10, 2024",
+      "dineWithUs": true
+    },
+    {
+      "name": "Layal R",
+      "content": "All the food was delicious and the people working there were very sweet and patient with our toddler. We had the onion dosa, cheese dosa, saag paneer, chicken biryani, and gulab jamun. Sorry if I misspelled anything. All of the dipping sauces for the dosa were delicious, as was the soup that came with the chaats.",
+      "image": "/Home/Review/layla.jpg",
+      "typeOfVisitor": "",
+      "date": "Feb 1, 2024",
+      "dineWithUs": true
+    },
+    {
+      "name": "Nasir D",
+      "content": "Vayals is hands down my favorite Indian/Desi food I've had. The food, Service, and atmosphere are a 10/10 and they have the friendliest staff; they make you feel very welcome, and I can't wait to come back!!",
+      "image": "/Home/Review/nasir.jpg",
+      "typeOfVisitor": "",
+      "date": "Jan 25, 2024",
+      "dineWithUs": true
+    }
+  ]
+}
